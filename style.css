@@ -62,3 +62,18 @@ h2 {
     padding: 10px 20px;
     margin-bottom: 20px; 
 }
+
+.container6, .container7 {
+    display: none;
+    justify-content: space-around;
+    align-content: space-around;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.dog-img5, .dog-img6, .dog-img7, .dog-img8 {
+    flex: 1;
+    width: 100px;
+    height: auto;
+    margin: 10px; 
+}
